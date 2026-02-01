@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+## Interesting Article
+https://dev.to/jdbar/how-software-development-is-changing-forever-and-how-youll-need-to-change-with-it-1jih
+
+This article is interesting because it reframes AI tools as the next big abstraction in the history of programming, similar to how compilers and higher-level languages changed what developers focused on.
