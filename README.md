@@ -7,3 +7,8 @@ This article is interesting because it reframes AI tools as the next big abstrac
 ## Comment
 
 I think this is interesting because it talks about the most important problem we have to focus now that AI is turning our life and we have to be care of AI is taking away our jobs.
+
+## Response:
+Name: Khushboo Agrawal
+I liked how the article frames AI as something that changes the role of developers rather than eliminating it.
+
