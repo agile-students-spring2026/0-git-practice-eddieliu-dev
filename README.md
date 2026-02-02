@@ -11,3 +11,7 @@ I think this is interesting because it talks about the most important problem we
 ## Comment - Chen Liu
 
 Maybe now it's time to learn how to program with AI instead of type out all the code by hand, just like you wouldn't need to type out all the assembly code (at least 95% of the time).
+## Response:
+Name: Khushboo Agrawal
+I liked how the article frames AI as something that changes the role of developers rather than eliminating it.
+
