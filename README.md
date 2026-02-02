@@ -8,6 +8,9 @@ This article is interesting because it reframes AI tools as the next big abstrac
 
 I think this is interesting because it talks about the most important problem we have to focus now that AI is turning our life and we have to be care of AI is taking away our jobs.
 
+## Comment - Chen Liu
+
+Maybe now it's time to learn how to program with AI instead of type out all the code by hand, just like you wouldn't need to type out all the assembly code (at least 95% of the time).
 ## Response:
 Name: Khushboo Agrawal
 I liked how the article frames AI as something that changes the role of developers rather than eliminating it.
