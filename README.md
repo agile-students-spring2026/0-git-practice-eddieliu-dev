@@ -6,7 +6,7 @@ This article is interesting because it reframes AI tools as the next big abstrac
 
 ## Comment - Louisa Liu
 
-I think this is interesting because it talks about the most important problem we have to focus now that AI is turning our life and we have to be care of AI is taking away our jobs.
+I think this is very interesting because it talks about the most important problem we have to focus now that AI is turning our life and we have to be care of AI is taking away our jobs.
 
 ## Comment - Chen Liu
 
